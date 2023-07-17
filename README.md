@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragumale&label=Profile%20views&color=0e75b6&style=flat" alt="anuragumale" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragumale" alt="anuragumale" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/anuragumale" target="blank"><img src="https://img.shields.io/twitter/follow/anuragumale?logo=twitter&style=for-the-badge" alt="anuragumale" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
